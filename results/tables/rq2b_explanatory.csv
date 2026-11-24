@@ -1,0 +1,6 @@
+variable,pearson_r,p
+d_olp_share,-0.94,0.0
+d_brightness,-0.894,0.0001
+d_osf_share,-0.884,0.0001
+d_high_risk,-0.645,0.0236
+d_med_w,-0.053,0.8699

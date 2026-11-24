@@ -1,0 +1,7 @@
+model,test,cross,within,drop,pct_retained
+resnet18,LKA_N,0.694,0.65,-0.044,106.8
+resnet18,LKA_S,0.678,0.715,0.037,94.8
+resnet18,MYS_sample,0.544,0.561,0.017,97.0
+rf_colour_texture,LKA_N,0.547,0.579,0.032,94.5
+rf_colour_texture,LKA_S,0.544,0.623,0.079,87.3
+rf_colour_texture,MYS_sample,0.395,0.63,0.235,62.7

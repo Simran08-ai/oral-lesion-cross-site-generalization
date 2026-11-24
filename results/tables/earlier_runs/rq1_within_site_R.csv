@@ -1,0 +1,4 @@
+model,site,n,n_patients,auc,pr_auc,f1_macro,acc,prec_hr,rec_hr,secs
+majority,LKA_R,1445,268,0.5,0.504,0.316,0.462,0.283,0.6,0
+rf_colour_texture,LKA_R,1445,268,0.591,0.596,0.567,0.568,0.574,0.576,24
+resnet18,LKA_R,1445,268,0.709,0.705,0.629,0.634,0.662,0.574,219

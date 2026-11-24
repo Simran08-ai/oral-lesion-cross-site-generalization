@@ -1,0 +1,3 @@
+direction,mean,sd,runs
+LKA_R->LKA_N,0.687,0.004,"[np.float64(0.684), np.float64(0.684), np.float64(0.692)]"
+LKA_R->MYS_sample,0.489,0.036,"[np.float64(0.462), np.float64(0.539), np.float64(0.466)]"

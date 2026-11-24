@@ -1,0 +1,5 @@
+model,train_sites,site,n,pos_rate,auc,pr_auc,f1_macro,acc,prec_hr,rec_hr
+rf_colour_texture,cap_Clinician,cap_Study_Coordinator,35,0.257,0.62,0.394,0.402,0.543,0.111,0.111
+rf_colour_texture,cap_Study_Coordinator,cap_Clinician,63,0.46,0.571,0.483,0.522,0.54,0.5,0.379
+resnet18_finetuned,cap_Clinician,cap_Study_Coordinator,35,0.257,0.504,0.432,0.533,0.686,0.333,0.222
+resnet18_finetuned,cap_Study_Coordinator,cap_Clinician,63,0.46,0.487,0.465,0.429,0.492,0.385,0.172

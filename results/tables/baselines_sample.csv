@@ -1,0 +1,5 @@
+model,n,n_patients,auc,pr_auc,f1_macro,acc,prec_hr,rec_hr
+majority,100,59,0.5,0.399,0.372,0.601,0.0,0.0
+random,100,59,0.469,0.475,0.429,0.442,0.362,0.573
+rf_colour_texture,100,59,0.597,0.542,0.533,0.57,0.55,0.43
+resnet18_finetuned,100,59,0.54,0.502,0.439,0.551,0.43,0.136
