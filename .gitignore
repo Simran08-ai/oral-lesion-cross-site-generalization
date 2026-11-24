@@ -1,0 +1,11 @@
+data/
+*.zip
+*.jpg
+*.jpeg
+img512/
+manifest_*.csv
+*.pt
+*.pth
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
